@@ -2,7 +2,7 @@ TP4 - Game of Life
 
 Type 	Date
 Practice start 	monday october 25th 9h
-Final due 	tuesday november 2nd 23h42
+Final due 	tuesday november 9th 23h42
 
 LOGIN@git.cri.epita.fr:p/2026-s1-caml/tp4-LOGIN
 
